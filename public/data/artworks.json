@@ -1,26 +1,5 @@
 [
   {
-    "id": "1758611491426-tshs4yt5y",
-    "filename": "1758611491426-tshs4yt5y.webp",
-    "originalName": "IMG_5922.webp",
-    "type": "image",
-    "url": "/public/images/2023-12/1758611491426-tshs4yt5y.webp",
-    "comment": "テスト",
-    "uploadedAt": "2025-09-23T07:11:32.605Z",
-    "yearMonth": "2023-12",
-    "isMonthBoundary": false
-  },
-  {
-    "id": "1758611351129-tvwpgr6dk",
-    "filename": "1758611351129-tvwpgr6dk.webp",
-    "originalName": "IMG_5922.webp",
-    "type": "image",
-    "url": "/public/images/2023-12/1758611351129-tvwpgr6dk.webp",
-    "uploadedAt": "2025-09-23T07:09:12.212Z",
-    "yearMonth": "2023-12",
-    "isMonthBoundary": false
-  },
-  {
     "id": "1758328781850-491y6wb1l",
     "filename": "1758328781850-491y6wb1l.webp",
     "originalName": "IMG_7045.webp",
@@ -28,17 +7,6 @@
     "url": "/public/images/2023-7/1758328781850-491y6wb1l.webp",
     "uploadedAt": "2025-09-20T00:39:43.033Z",
     "yearMonth": "2023-07",
-    "isMonthBoundary": true
-  },
-  {
-    "id": "1757892432103-lqmtcalqu",
-    "filename": "1757892432103-lqmtcalqu.png",
-    "originalName": "test-final-attempt.png",
-    "type": "image",
-    "url": "/public/images/2025-09/1757892432103-lqmtcalqu.png",
-    "comment": "最終テスト - SHA修正後",
-    "uploadedAt": "2025-09-14T23:27:12.941Z",
-    "yearMonth": "2025-09",
     "isMonthBoundary": true
   }
 ]
